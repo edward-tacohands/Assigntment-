@@ -1,0 +1,30 @@
+[
+  {
+    "reference": "110A",
+    "title": "Matematik 1",
+    "lengthDays": 120,
+    "startingDate": "2025-01-03T00:00:00",
+    "finishingDate": "2025-05-03T00:00:00"
+  },
+  {
+    "reference": "110B",
+    "title": "Matematik 1 Distans",
+    "lengthDays": 120,
+    "startingDate": "2025-01-03T00:00:00",
+    "finishingDate": "2025-05-03T00:00:00"
+  },
+  {
+    "reference": "210A",
+    "title": "Programering 1",
+    "lengthDays": 80,
+    "startingDate": "2025-01-03T00:00:00",
+    "finishingDate": "2025-03-24T00:00:00"
+  },
+  {
+    "reference": "210B",
+    "title": "Programering 1 Distans",
+    "lengthDays": 80,
+    "startingDate": "2025-01-03T00:00:00",
+    "finishingDate": "2025-03-24T00:00:00"
+  }
+]
